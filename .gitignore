@@ -1,3 +1,4 @@
+.vscode/
+code/vendor
+code/.dccache
 .DS_Store
-mysql
-
