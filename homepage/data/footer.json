@@ -1,0 +1,36 @@
+{
+  "footer": [
+    {
+      "services": [
+        {
+          "title": "聯繫我們",
+          "innerItem": [
+            {
+              "link": "https://lin.ee/DkWkOLE",
+              "text": "Line@｜@156akamf"
+            },
+            {
+              "link": "tel:04-2265-8002",
+              "text": "公司電話｜04-2265-8002"
+            },
+            {
+              "link": "mailto:support@websiteszoo.com",
+              "text": "電子郵件｜support@websiteszoo.com"
+            },
+            {
+              "link": "#",
+              "text": "公司地址｜40255台中市南區南平路39-3號"
+            }
+          ]
+        }
+      ],
+      "contact": [
+        {
+          "location": "8819 Ohio St. South Gate, North America, USA",
+          "mail": "example@domain.com",
+          "number": "1 386-688-3295"
+        }
+      ]
+    }
+  ]
+}

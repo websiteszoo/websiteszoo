@@ -1,0 +1,19 @@
+{
+  "TabStyleOne": [
+    {
+      "title": "新手教學手冊",
+      "menuId": "新手教學手冊",
+      "text": "新手教學手冊",
+      "target": "新手教學手冊",
+      "url":"https://blog.websiteszoo.com/",
+      "isSelect": true
+    },
+    {
+      "title": "樂創布拉格",
+      "menuId": "樂創布拉格",
+      "text": "樂創布拉格",
+      "target": "樂創布拉格",
+      "isSelect": true
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "pricing": [
+    {
+      "priceId": "nav-profile",
+      "priceType": "Yearly",
+      "discount": 10,
+      "isSelect": true,
+      "priceBody": [
+        {
+          "id": 1,
+          "priceId": "nav-profile",
+          "isSelect": false,
+          "isShow": false,
+          "classNum": "one",
+          "subTitle": "一頁式網站套餐",
+          "title": "適合： 小型企業、個人簡歷、單產品推廣",
+          "price": "1.5萬 - 2萬",
+          "priceFor": "",
+          "limited": "Limited Offer",
+          "text": "方案特色",
+          "iconClass": "fa-regular fa-circle-radiation",
+          "listItem": [
+            {
+              "text": "一頁式設計，所有內容在一個頁面展示"
+            },
+            {
+              "text": "ＲＷＤ響應式設計，適用桌面、平板和手機"
+            },
+            {
+              "text": "簡單聯絡表單"
+            },
+            {
+              "text": " 基本SEO優化"
+            },
+            {
+              "text": "一年免費主機維護和技術支援"
+            },
+            {
+              "text": " 後台內容管理系統"
+            },
+            {
+              "text": "Google Analytics、FB Pixel 網站分析計量工具串接"
+            },
+            {
+              "text": " Google Search Console 整合 及 Sitemap 動態提交"
+            },
+            {
+              "text": "SEO優化管理工具"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "priceId": "nav-profile",
+          "isSelect": true,
+          "isShow": false,
+          "classNum": "two",
+          "subTitle": "標準企業網站套餐",
+          "title": "適合： 中小型企業、品牌展示、專業服務",
+          "price": "3萬2 - 3萬9",
+          "priceFor": "/Per Year",
+          "limited": "Limited Offer",
+          "text": "方案特色",
+          "iconClass": "fa-sharp fa-regular fa-flower",
+          "listItem": [
+            {
+              "text": "多頁排版設計（首頁、關於我們、服務、聯絡我們等"
+            },
+            {
+              "text": "基本SEO優化"
+            },
+            {
+              "text": "定制視覺設計和品牌塑造"
+            },
+            {
+              "text": "社交媒體按鈕"
+            },
+            {
+              "text": "聯絡表單和地圖"
+            },
+            {
+              "text": "頁面區塊自由增減、圖文自由更新"
+            },
+            {
+              "text": "RWD響應式架構"
+            },
+            {
+              "text": "SEO優化管理工具"
+            },
+            {
+              "text": "一年免費主機維護和技術支持"
+            },
+            {
+              "text": "後台內容管理系統"
+            },
+            {
+              "text": "最新消息 或 部落格(文章)模塊編輯系統"
+            },
+            {
+              "text": "Google Analytics 網站分析計量工具串接"
+            },
+            {
+              "text": "Google Search Console 整合 及 Sitemap 動態提交"
+            }
+
+          ]
+        },
+        {
+          "id": 3,
+          "priceId": "nav-profile",
+          "isSelect": false,
+          "isShow": false,
+          "classNum": "three",
+          "subTitle": "購物車網站套餐",
+          "title": "適合： 電子商務、在線零售",
+          "price": "7萬3 - 7萬8",
+          "priceFor": "/Per Year",
+          "limited": "Limited Offer",
+          "text": "方案特色",
+          "iconClass": "fa-sharp fa-regular fa-waveform-lines",
+          "listItem": [
+            {
+              "text": "多頁設計（首頁、產品頁、購物車、結帳頁等"
+            },
+            {
+              "text": "定制視覺設計和品牌塑造"
+            },
+            {
+              "text": "RWD響應式設計，適應各種設備"
+            },
+            {
+              "text": "完整的購物車系統和支付方式"
+            },
+            {
+              "text": "庫存管理系統"
+            },
+            {
+              "text": "會員系統和用戶管理"
+            },
+            {
+              "text": "基本的SEO優化"
+            },
+            {
+              "text": "數據分析和報告工具"
+            },
+            {
+              "text": "一年免費主機維護和技術支持"
+            },
+            {
+              "text": "訂單管理系統"
+            },
+            {
+              "text": "線上聯繫表單"
+            },
+            {
+              "text": "後台內容管理系統"
+            },
+            {
+              "text": "區塊自由增減、圖文自由更新"
+            },
+            {
+              "text": "Google Analytics 網站分析計量工具串接"
+            },
+            {
+              "text": "Google Search Console 整合 及 Sitemap 動態提交"
+            },
+            {
+              "text": "SEO優化管理工具"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "priceId": "nav-profile",
+          "isSelect": false,
+          "isShow": false,
+          "classNum": "three",
+          "subTitle": "套版網站套餐",
+          "title": "初創企業、預算有限的項目",
+          "price": "1萬-5萬",
+          "priceFor": "/Per Year",
+          "limited": "Limited Offer",
+          "text": "方案特色",
+          "iconClass": "fa-sharp fa-regular fa-waveform-lines",
+          "listItem": [
+            {
+              "text": "選擇現成的網站模板（多達300+版型）"
+            },
+            {
+              "text": "RWD響應式設計，適應各種設備"
+            },
+            {
+              "text": "基本的視覺調整和品牌定制"
+            },
+            {
+              "text": "基本SEO優化"
+            },
+            {
+              "text": "簡單的聯絡表單"
+            },
+            {
+              "text": "一年免費主機維護和技術支持"
+            },
+            {
+              "text": "後台內容管理系統"
+            },
+            {
+              "text": "Google Analytics 網站分析計量工具串接"
+            },
+            {
+              "text": "Google Search Console 整合 及 Sitemap 動態提交"
+            },
+            {
+              "text": "SEO優化管理工具"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "priceId": "nav-profile",
+          "isSelect": false,
+          "isShow": false,
+          "classNum": "three",
+          "subTitle": "客製化方案",
+          "title": "適合： 需要特定功能或設計的項目",
+          "price": "免費諮詢和報價",
+          "priceFor": "/Per Year",
+          "limited": "Limited Offer",
+          "text": "方案特色",
+          "iconClass": "fa-sharp fa-regular fa-waveform-lines",
+          "listItem": [
+            {
+              "text": "根據需求量身定制的設計和開發"
+            },
+            {
+              "text": "響應式設計，適應各種設備"
+            },
+            {
+              "text": "所有標準功能（聯絡表單、SEO優化等）"
+            },
+            {
+              "text": "高級功能開發 (例如：論壇、會員系統、預訂系統等）"
+            },
+            {
+              "text": "數據分析和報告工具"
+            },
+            {
+              "text": "跨國多語系"
+            },
+            {
+              "text": "長期技術支持和維護"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

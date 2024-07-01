@@ -2,3 +2,13 @@
 code/vendor
 code/.dccache
 .DS_Store
+homepage/package-lock.json
+homepage/node_modules
+homepage/out
+code/*.html
+code/_next
+code/css
+code/fonts
+code/images
+code/maps
+code/scss
