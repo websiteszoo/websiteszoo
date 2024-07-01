@@ -30,7 +30,7 @@ jobs:
           node-version: "20.x"
 
       - name: npm
-        run: cd homepage && npm install && npm run build  && cd ..
+        run: cd homepage && npm install &&  npm install webpack webpack-cli --save-dev && npm run build  && cd ..
 
       - name: copy homepage
         run: cp -r ./homepage/out/ ./code/
