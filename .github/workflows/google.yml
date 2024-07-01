@@ -41,11 +41,11 @@ jobs:
         run: ls -all ./code/    
       
       - name: rename 
-        run: rename 's/\.html$/.php/' *.html
+        run: find . -name "*.html" -exec sh -c 'mv "$0" "${0%.html}.php"' {} \;
         
       - name: ls 
         run: ls -all ./code/    
-        
+
       - id: "auth"
         uses: "google-github-actions/auth@v2"
         with:
