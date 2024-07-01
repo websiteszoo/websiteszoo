@@ -4,8 +4,8 @@ import Image from "next/image";
 import Sal from "sal.js";
 import styled from 'styled-components';
 import TabData from "../../data/servicemenu.json";
-import p1 from '../../public/images/Service/002.png';
-import p2 from '../../public/images/Service/001.png';
+import p1 from '../../public/images/service/002.png';
+import p2 from '../../public/images/service/001.png';
 
 const rowstyle = {
   paddingLeft: "30px",
