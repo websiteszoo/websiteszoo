@@ -39,7 +39,13 @@ jobs:
 
       - name: ls 
         run: ls -all ./code/    
-
+      
+      - name: rename 
+        run: rename 's/\.html$/.php/' *.html
+        
+      - name: ls 
+        run: ls -all ./code/    
+        
       - id: "auth"
         uses: "google-github-actions/auth@v2"
         with:

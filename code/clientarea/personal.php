@@ -100,7 +100,6 @@ if(isset($_POST['submit'])){
                     <div class="row">
                         <div class="col-12 text-center">
                             <button type="submit" name="submit" class="btn btn-primary">保存</button>
-                            <button type="button" class="btn btn-secondary">取消</button>
                         </div>
                     </div>
                 </form>
