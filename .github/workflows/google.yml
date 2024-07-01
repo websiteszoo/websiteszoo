@@ -33,6 +33,10 @@ jobs:
         run: cd homepage && npm install &&  npm install webpack webpack-cli --save-dev && npm run build  && cd ..
 
       - name: copy homepage
+        run: ls -all ./code/
+
+
+      - name: copy homepage
         run: cp -r ./homepage/out/ ./code/
 
       - id: "auth"
