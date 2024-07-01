@@ -1,1 +1,1 @@
-self.__REACT_LOADABLE_MANIFEST='{"components/Testimonials/Testimonial.js -> venobox/dist/venobox.min.js":{"id":3868,"files":["static/chunks/868.b8c564c1015cf719.js"]}}';
+self.__REACT_LOADABLE_MANIFEST="{\"components/Testimonials/Testimonial.js -> venobox/dist/venobox.min.js\":{\"id\":\"components/Testimonials/Testimonial.js -> venobox/dist/venobox.min.js\",\"files\":[\"static/chunks/node_modules_venobox_dist_venobox_min_js.js\"]}}"
