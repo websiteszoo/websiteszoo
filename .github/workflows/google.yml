@@ -34,10 +34,10 @@ jobs:
 
 
       - name: copy homepage
-        run: cp -r ./homepage/out/ ./code/
+        run: cp -r ./homepage/out/* ./code/
 
 
-      - name: ls
+      - name: ls 
         run: ls -all ./code/    
 
       - id: "auth"
