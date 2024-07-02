@@ -30,37 +30,37 @@ const galleryData = [
   {
     stripClass: 'one',
     photos: [
-      { src: 'https://tt01.websiteszoo.tw/wp-content/uploads/2024/06/windward-管理顧問公司.png', name: '企業形象網站' },
-      { src: 'https://tt01.websiteszoo.tw/wp-content/uploads/2024/06/LEWEB-2.png', name: '系統開發' },
-      { src: 'https://tt01.websiteszoo.tw/wp-content/uploads/2024/06/Histrual展間平台.png', name: '企業形象網站' },
-      { src: 'https://tt01.websiteszoo.tw/wp-content/uploads/2024/06/預約系統.png', name: '企業形象網站' },
+      { src: '/images/work/13.png', name: '企業形象網站' },
+      { src: '/_next/static/media/001.da5e25b7.png', name: '系統開發' },
+      { src: '/images/work/08.png', name: '企業形象網站' },
+      { src: '/_next/static/media/002.18d57476.png', name: '企業形象網站' },
     ],
   },
   {
     stripClass: 'two',
     photos: [
-      { src: 'https://tt01.websiteszoo.tw/wp-content/uploads/2024/06/錦順瀝青工程.png', name: '企業形象網站' },
-      { src: 'https://tt01.websiteszoo.tw/wp-content/uploads/2024/06/盛凡.png', name: '品牌型錄式網站' },
-      { src: 'https://tt01.websiteszoo.tw/wp-content/uploads/2024/06/汽車保修廠.png', name: '一頁式形象網站' },
-      { src: 'https://tt01.websiteszoo.tw/wp-content/uploads/2024/06/百世租賃有限公司.png', name: '客製系統開發' },
+      { src: '/images/work/07.png', name: '企業形象網站' },
+      { src: '/images/work/12.png', name: '品牌型錄式網站' },
+      { src: '/images/work/06.png', name: '一頁式形象網站' },
+      { src: '/images/work/01.png', name: '客製系統開發' },
     ],
   },
   {
     stripClass: 'three',
     photos: [
-      { src: 'https://tt01.websiteszoo.tw/wp-content/uploads/2024/06/火蟲影像有限公司.png', name: '品牌型錄式網站' },
-      { src: 'https://tt01.websiteszoo.tw/wp-content/uploads/2024/06/月子中心.png', name: '企業形象官網' },
-      { src: 'https://tt01.websiteszoo.tw/wp-content/uploads/2024/06/八人座機場接送.png', name: '一頁式形象網站' },
-      { src: 'https://tt01.websiteszoo.tw/wp-content/uploads/2024/06/一頁式網站.png', name: '一頁式形象網站' },
+      { src: '/images/work/11.png', name: '品牌型錄式網站' },
+      { src: '/images/work/04.png', name: '企業形象官網' },
+      { src: '/images/work/14.png', name: '一頁式形象網站' },
+      { src: '/images/work/15.png', name: '一頁式形象網站' },
     ],
   },
   {
     stripClass: 'four',
     photos: [
-      { src: 'https://tt01.websiteszoo.tw/wp-content/uploads/2024/06/14.png', name: '企業形象網站' },
-      { src: 'https://tt01.websiteszoo.tw/wp-content/uploads/2024/06/15.png', name: '一頁式形象網站' },
-      { src: 'https://tt01.websiteszoo.tw/wp-content/uploads/2024/06/作品廣告.png', name: '系統開發' },
-      { src: 'https://tt01.websiteszoo.tw/wp-content/uploads/2024/06/預約系統.png', name: '預約系統開發' },
+      { src: '/images/work/10.png', name: '企業形象網站' },
+      { src: '/images/work/13.png', name: '一頁式形象網站' },
+      { src: '/images/work/02.png', name: '系統開發' },
+      { src: '/_next/static/media/002.18d57476.png', name: '預約系統開發' },
     ],
   },
 ];

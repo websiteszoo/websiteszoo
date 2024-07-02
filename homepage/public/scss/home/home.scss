@@ -3,6 +3,10 @@
     color:#ffffff;
     font-size: 20px;
   }
+
+  .bgg{
+    background: linear-gradient(to right, #243243, #352D52);
+  }
   .btn-close:hover{
     --bs-btn-close-bg: url("#") !important;
     color:#ffffff;

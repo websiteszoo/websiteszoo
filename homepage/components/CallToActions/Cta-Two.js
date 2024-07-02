@@ -20,11 +20,10 @@ const modalText = {
   padding: "10px 15px",
   fontSize: "1.6rem",
   lineHeight: 2,
-  background: "linear-gradient(to right,#243243, #352D52);",
 };
 const modalTitle = {
   fontSize: "3.2rem",
-  background: "linear-gradient(to right,#243243, #352D52);",
+  
 };
 const modalTitleh1 = {
   fontSize: "2.75rem",
@@ -96,11 +95,11 @@ const CtaTwo = () => {
 <div class="modal fade" id="about_modal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" style={modal}>
   <div class="modal-dialog modal-dialog-centered">
     <div class="modal-content">
-      <div class="modal-header" style={modalTitle}>
+      <div class="modal-header bgg" style={modalTitle} >
         <h1 class="modal-title " id="exampleModalLabel"  style={modalTitleh1}>關於樂創</h1>
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" >X</button>
       </div>
-      <div class="modal-body" style={modalText}>
+      <div class="modal-body bgg" style={modalText}>
       樂創數位行銷有限公司由兩位志同道合的好朋友芷萱和宗勳共同創立。他們的緣分始於2019年，當時一起經營資訊社團，並逐漸培養出深厚的默契和合作精神。隨著時間的推移，他們的友誼越來 越深厚，對未來的夢想也越來越清晰。<br/><br/>
 
 在即將畢業的前夕，兩人在宿舍裡共同創立了一個小小的工作室，踏上了他們的創業之路。他們用心血和汗水，逐步把這個小工作室發展成充滿希望和潛力的公司。最終於2023年2月，樂創數位行銷有限公司正式成立。<br/><br/>
