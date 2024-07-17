@@ -31,7 +31,7 @@
           "name": "盛凡實業股份有限公司",
           "img": "/images/work/12.png",
           "intr": "型錄式品牌網站｜製造業",
-          "url":"https://sfb.com.tw/web"
+          "url":"https://sfb.com.tw/web/%e7%9b%9b%e5%87%a1%e8%b2%bc%e9%87%91%e7%ae%94/"
         },
         {
           "name": "火蟲影像有限公司",
@@ -98,6 +98,12 @@
           "img": "/images/work/01.png",
           "intr": "預約叫車APP 系統開發",
           "url":"https://booking.bestshi-shuttle.com/"
+        },
+        {
+          "name": "KO-Z服飾品牌",
+           "img": "/images/work/0717.png",
+           "intr": "購物車網站｜服飾業",
+           "url":"https://kozfashion.com/"
         }
 
       ]
@@ -132,25 +138,25 @@
       ]
     },
     {
-      "title": "品牌型錄式網站",
+      "title": "購物車網站",
       "img": "/images/generator-img/chat-export-photo.png",
-      "menuId": "品牌型錄式網站",
-      "text": "品牌型錄式網站",
-      "target": "品牌型錄式網站",
+      "menuId": "購物車網站",
+      "text": "購物車網站",
+      "target": "購物車網站",
       "iconImg": "/images/icons/photo-g.png",
       "isSelect": false,
       "subItem": [
         {
           "name": "盛凡實業股份有限公司",
           "img": "/images/work/12.png",
-          "intr": "型錄式品牌網站｜製造業",
-          "url":"https://sfb.com.tw/web"
+          "intr": "購物車網站｜製造業",
+          "url":"https://sfb.com.tw/web/%e7%9b%9b%e5%87%a1%e8%b2%bc%e9%87%91%e7%ae%94/"
         },
         {
-          "name": "火蟲影像有限公司",
-           "img": "/images/work/11.png",
-           "intr": "品牌型錄式網站｜影像製作",
-           "url":"https://firebugsfilm.com/"
+          "name": "KO-Z服飾品牌",
+           "img": "/images/work/0717.png",
+           "intr": "購物車網站｜服飾業",
+           "url":"https://kozfashion.com/"
         }
       ]
     },
@@ -204,6 +210,12 @@
           "img": "/images/work/04.png",
           "intr": "多頁形象官網｜居住型照顧服務業",
           "url":"https://aiduodaoamy.com/"
+        },
+        {
+          "name": "火蟲影像有限公司",
+           "img": "/images/work/11.png",
+           "intr": "多頁形象官網｜影像製作",
+           "url":"https://firebugsfilm.com/"
         }
       ]
     },

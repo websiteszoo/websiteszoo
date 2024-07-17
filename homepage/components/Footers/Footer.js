@@ -49,10 +49,10 @@ const Footer = () => {
                   FooterData.footer.map((data, index) => (
                     <div className="rainbow-footer-widget" key={index}>
                       <div className="widget-menu-top">
-                 
-                      <iframe width="560" height="230" src="https://www.youtube.com/embed/Y_1ATOCP-14?si=iEAYYe_PbStvHh7w&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-               
-                        
+                        <br></br>
+                        <a href="https://vocus.cc/article/65f7a46cfd89780001485cf6" target="_blank">
+                          <img src="/images/footer/07173.jpg" ></img>
+                        </a>
                       </div>
                     </div>
                   ))}
