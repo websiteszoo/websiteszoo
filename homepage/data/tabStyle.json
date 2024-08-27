@@ -13,7 +13,7 @@
           "name": "水匠防水工程行",
           "img": "/images/work/15.png",
           "intr": "一頁式網站｜工程建設",
-          "url":"/images/work/water.png"
+          "url":"https://websiteszoo.com/images/work/water.png"
         },
         {
           "name": "八人座車 機場接送",
@@ -29,9 +29,9 @@
         },
         {
           "name": "一貸女王",
-           "img": "/images/work/16.png",
+           "img": "./images/work/16.png",
            "intr": "一頁式網站｜金融業",
-           "url":"/images/work/loanqueen.png"
+           "url":"https://websiteszoo.com/images/work/loanqueen.png"
         },
         {
           "name": "盛凡實業股份有限公司",
@@ -127,7 +127,7 @@
           "name": "水匠防水工程行",
           "img": "/images/work/15.png",
           "intr": "一頁式網站｜工程建設",
-          "url":"/images/work/water.png"
+          "url":"https://websiteszoo.com/images/work/water.png"
         },
         {
           "name": "八人座車 機場接送",
@@ -143,9 +143,9 @@
         },
         {
           "name": "一貸女王",
-           "img": "/images/work/16.png",
+           "img": "./images/work/16.png",
            "intr": "一頁式網站｜金融業",
-           "url":"/images/work/loanqueen.png"
+           "url":"https://websiteszoo.com/images/work/loanqueen.png"
         }
       ]
     },
