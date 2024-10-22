@@ -6,7 +6,7 @@ import styled from 'styled-components';
 import TabData from "../../data/servicemenu.json";
 import p1 from '../../public/images/service/002.png';
 import p2 from '../../public/images/service/001.png';
-
+import p3 from '../../public/images/service/003.png';
 const rowstyle = {
   paddingLeft: "30px",
   paddingRight: "30px",
@@ -38,20 +38,29 @@ const Home = () => {
       {/* Wrapper div with className */}
       <div className="rainbow-cta-area rainbow-section-gap rainbow-section-gapBottom-big">
       <div className="row rowstyle" style={rowstyle} >
-        <div className="col-sm-6" style={colstyle}>
+      <div className="col-sm-4" style={colstyle}>
+        <a href="https://home.nfcard.me/" target="_blank">
+        <Image
+              src={p3}
+              width="550px"
+            />
+        </a>    
+        </div>
+        <div className="col-sm-4" style={colstyle}>
           <a href="https://booking.linee.io/" target="_blank">
           <Image
               src={p1}
             />
          </a>   
         </div>
-        <div className="col-sm-6" style={colstyle}>
+        <div className="col-sm-4" style={colstyle}>
         <a href="https://leweb.io/" target="_blank">
         <Image
               src={p2}
             />
         </a>    
         </div>
+        
       </div>
       </div>
     </>

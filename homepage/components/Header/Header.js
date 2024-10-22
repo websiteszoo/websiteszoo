@@ -59,8 +59,8 @@ const Header = ({ headerTransparent, headerSticky, btnClass }) => {
             <div className="col-lg-2 col-md-6 col-6 position-static">
               <div className="header-right">
                 <div className="header-btn">
-                  <Link className={`${btnClass}`} href="/clientarea/">
-                    <span>會員登入</span>
+                  <Link className={`${btnClass}`} href="https://status.websiteszoo.com/status/websiteszoo" target="_blank">
+                    <span>系統狀態</span>
                   </Link>
                 </div>
 
