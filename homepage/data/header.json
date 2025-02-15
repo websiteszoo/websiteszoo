@@ -33,10 +33,10 @@
       "text": "首頁"
     },
     {
-      "link": "/#about",
+      "link": "https://blog.websiteszoo.com/",
       "isIcon": false,
       "isMenu": false,
-      "text": "關於樂創"
+      "text": "樂創布拉格"
     },
     {
       "link": "/Work",
