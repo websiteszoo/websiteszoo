@@ -50,7 +50,7 @@ const Footer = () => {
                     <div className="rainbow-footer-widget" key={index}>
                       <div className="widget-menu-top">
                         <br></br>
-                        <a href="https://vocus.cc/article/65f7a46cfd89780001485cf6" target="_blank">
+                        <a href="https://vocus.cc/article/65f7bc57fd8978000149e21f" target="_blank">
                           <img src="/images/footer/07173.jpg" ></img>
                         </a>
                       </div>

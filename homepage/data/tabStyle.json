@@ -1,115 +1,109 @@
 {
   "TabStyleOne": [
     {
-      "title": "全部案例",
+      "title": "全部網頁案例",
       "img": "/images/generator-img/chat-export-vedio.png",
-      "menuId": "全部案例",
-      "text": "全部案例",
-      "target": "全部案例",
+      "menuId": "全部網頁案例",
+      "text": "全部網頁案例",
+      "target": "全部網頁案例",
       "iconImg": "/images/icons/video-g.png",
       "isSelect": true,
       "subItem": [
         {
           "name": "水匠防水工程行",
           "img": "/images/work/15.png",
-          "intr": "一頁式網站｜工程建設",
-          "url":"https://websiteszoo.com/images/work/water.png"
+          "intr": "一頁式網站",
+          "url":"https://watersmith.com.tw/"
         },
         {
           "name": "八人座車 機場接送",
            "img": "/images/work/14.png",
-           "intr": "一頁式網站｜汽車租賃業",
+           "intr": "一頁式網站",
            "url":"https://ysl666.com/"
         },
         {
-          "name": "足合養身會館",
-           "img": "/images/work/13.png",
-           "intr": "一頁式網站｜美容美髮業",
-           "url":"https://zu-he.websiteszoo.tw/"
+          "name": "全台超速扣牌專業處理",
+           "img": "/images/work/18.png",
+           "intr": "一頁式網站",
+           "url":"https://car0531.com/"
         },
         {
-          "name": "一貸女王",
-           "img": "./images/work/16.png",
-           "intr": "一頁式網站｜金融業",
-           "url":"https://websiteszoo.com/images/work/loanqueen.png"
+          "name": "逗留寵物沙龍",
+           "img": "/images/work/19.png",
+           "intr": "一頁式網站",
+           "url":"https://staypetgrooming.com/"
         },
         {
           "name": "盛凡實業股份有限公司",
           "img": "/images/work/12.png",
-          "intr": "型錄式品牌網站｜製造業",
+          "intr": "購物車網站",
           "url":"https://sfb.com.tw/web/%e7%9b%9b%e5%87%a1%e8%b2%bc%e9%87%91%e7%ae%94/"
         },
         {
-          "name": "火蟲影像有限公司",
-           "img": "/images/work/11.png",
-           "intr": "品牌型錄式網站｜影像製作",
-           "url":"https://firebugsfilm.com/"
-        },
-        {
-          "name": "國立中興大學負碳中心",
-          "img": "/images/work/10.png",
-          "intr": "多頁形象官網｜學校教育",
-          "url":"https://isnr.nchu.edu.tw/"
+          "name": "KO-Z服飾品牌",
+           "img": "/images/work/0717.png",
+           "intr": "購物車網站",
+           "url":"https://kozfashion.com/"
         },
         {
           "name": "Windward 管理顧問公司",
            "img": "/images/work/09.png",
-           "intr": "多頁形象官網｜管理顧問業",
+           "intr": "多頁形象官網",
            "url":"https://windwardasia.com/"
-        },
-        {
-          "name": "Histrual虛擬展間平台",
-          "img": "/images/work/08.png",
-          "intr": "多頁形象官網｜資訊業",
-          "url":"https://histual.com/"
-        },
-        {
-          "name": "錦順瀝青工程行",
-           "img": "/images/work/07.png",
-           "intr": "多頁形象官網｜汽車維修業",
-           "url":"https://js.asphalt-taoyuan.com/"
         },
         {
           "name": "全益汽車保修廠",
            "img": "/images/work/06.png",
-           "intr": "多頁形象官網｜汽車維修業",
+           "intr": "多頁形象官網",
            "url":"https://fucar.websiteszoo.tw/"
         },
         {
           "name": "百世租賃有限公司",
            "img": "/images/work/05.png",
-           "intr": "多頁形象官網｜汽車租賃業",
+           "intr": "多頁形象官網",
            "url":"https://bestshi-shuttle.com/"
         },
         {
           "name": "愛多寶加拿大月子中心",
           "img": "/images/work/04.png",
-          "intr": "多頁形象官網｜居住型照顧服務業",
+          "intr": "多頁形象官網",
           "url":"https://aiduodaoamy.com/"
+        },
+        {
+          "name": "火蟲影像有限公司",
+           "img": "/images/work/11.png",
+           "intr": "多頁形象官網",
+           "url":"https://firebugsfilm.com/"
+        },
+        {
+          "name": "機場速達",
+           "img": "/images/work/20.png",
+           "intr": "多頁形象官網",
+           "url":"https://gospeed.tw/"
+        },
+        {
+          "name": "多元產業工作室",
+           "img": "/images/work/21.png",
+           "intr": "多頁形象官網",
+           "url":"https://rebirth-act.com/"
         },
         {
           "name": "E-STYLE",
           "img": "/images/work/03.png",
-          "intr": "公司內部系統開發｜不動產經營業",
+          "intr": "系統開發",
           "url":"#"
         },
         {
           "name": "朝陽科技大學學生會",
            "img": "/images/work/02.png",
-           "intr": "多功能網站｜系統開發",
+           "intr": "系統開發",
            "url":"https://sg.cyut.edu.tw/"
         },
         {
           "name": "百世租賃有限公司",
           "img": "/images/work/01.png",
-          "intr": "預約叫車APP 系統開發",
+          "intr": "系統開發",
           "url":"https://booking.bestshi-shuttle.com/"
-        },
-        {
-          "name": "KO-Z服飾品牌",
-           "img": "/images/work/0717.png",
-           "intr": "購物車網站｜服飾業",
-           "url":"https://kozfashion.com/"
         }
 
       ]
@@ -126,49 +120,26 @@
         {
           "name": "水匠防水工程行",
           "img": "/images/work/15.png",
-          "intr": "一頁式網站｜工程建設",
-          "url":"https://websiteszoo.com/images/work/water.png"
+          "intr": "一頁式網站",
+          "url":"https://watersmith.com.tw/"
         },
         {
           "name": "八人座車 機場接送",
            "img": "/images/work/14.png",
-           "intr": "一頁式網站｜汽車租賃業",
+           "intr": "一頁式網站",
            "url":"https://ysl666.com/"
         },
         {
-          "name": "足合養身會館",
-           "img": "/images/work/13.png",
-           "intr": "一頁式網站｜美容美髮業",
-           "url":"https://zu-he.websiteszoo.tw/"
+          "name": "全台超速扣牌專業處理",
+           "img": "/images/work/18.png",
+           "intr": "一頁式網站",
+           "url":"https://car0531.com/"
         },
         {
-          "name": "一貸女王",
-           "img": "./images/work/16.png",
-           "intr": "一頁式網站｜金融業",
-           "url":"https://websiteszoo.com/images/work/loanqueen.png"
-        }
-      ]
-    },
-    {
-      "title": "購物車網站",
-      "img": "/images/generator-img/chat-export-photo.png",
-      "menuId": "購物車網站",
-      "text": "購物車網站",
-      "target": "購物車網站",
-      "iconImg": "/images/icons/photo-g.png",
-      "isSelect": false,
-      "subItem": [
-        {
-          "name": "盛凡實業股份有限公司",
-          "img": "/images/work/12.png",
-          "intr": "購物車網站｜製造業",
-          "url":"https://sfb.com.tw/web/%e7%9b%9b%e5%87%a1%e8%b2%bc%e9%87%91%e7%ae%94/"
-        },
-        {
-          "name": "KO-Z服飾品牌",
-           "img": "/images/work/0717.png",
-           "intr": "購物車網站｜服飾業",
-           "url":"https://kozfashion.com/"
+          "name": "逗留寵物沙龍",
+           "img": "/images/work/19.png",
+           "intr": "一頁式網站",
+           "url":"https://staypetgrooming.com/"
         }
       ]
     },
@@ -182,52 +153,58 @@
       "isSelect": false,
       "subItem": [
         {
-          "name": "國立中興大學負碳中心",
-          "img": "/images/work/10.png",
-          "intr": "多頁形象官網｜學校教育",
-          "url":"https://isnr.nchu.edu.tw/"
+          "name": "盛凡實業股份有限公司",
+          "img": "/images/work/12.png",
+          "intr": "購物車網站",
+          "url":"https://sfb.com.tw/web/%e7%9b%9b%e5%87%a1%e8%b2%bc%e9%87%91%e7%ae%94/"
+        },
+        {
+          "name": "KO-Z服飾品牌",
+           "img": "/images/work/0717.png",
+           "intr": "購物車網站",
+           "url":"https://kozfashion.com/"
         },
         {
           "name": "Windward 管理顧問公司",
            "img": "/images/work/09.png",
-           "intr": "多頁形象官網｜管理顧問業",
+           "intr": "多頁形象官網",
            "url":"https://windwardasia.com/"
-        },
-        {
-          "name": "Histrual虛擬展間平台",
-          "img": "/images/work/08.png",
-          "intr": "多頁形象官網｜資訊業",
-          "url":"https://histual.com/"
-        },
-        {
-          "name": "錦順瀝青工程行",
-           "img": "/images/work/07.png",
-           "intr": "多頁形象官網｜汽車維修業",
-           "url":"https://js.asphalt-taoyuan.com/"
         },
         {
           "name": "全益汽車保修廠",
            "img": "/images/work/06.png",
-           "intr": "多頁形象官網｜汽車維修業",
+           "intr": "多頁形象官網",
            "url":"https://fucar.websiteszoo.tw/"
         },
         {
           "name": "百世租賃有限公司",
            "img": "/images/work/05.png",
-           "intr": "多頁形象官網｜汽車租賃業",
+           "intr": "多頁形象官網",
            "url":"https://bestshi-shuttle.com/"
         },
         {
           "name": "愛多寶加拿大月子中心",
           "img": "/images/work/04.png",
-          "intr": "多頁形象官網｜居住型照顧服務業",
+          "intr": "多頁形象官網",
           "url":"https://aiduodaoamy.com/"
         },
         {
           "name": "火蟲影像有限公司",
            "img": "/images/work/11.png",
-           "intr": "多頁形象官網｜影像製作",
+           "intr": "多頁形象官網",
            "url":"https://firebugsfilm.com/"
+        },
+        {
+          "name": "機場速達",
+           "img": "/images/work/20.png",
+           "intr": "多頁形象官網",
+           "url":"https://gospeed.tw/"
+        },
+        {
+          "name": "多元產業工作室",
+           "img": "/images/work/21.png",
+           "intr": "多頁形象官網",
+           "url":"https://rebirth-act.com/"
         }
       ]
     },
@@ -243,20 +220,83 @@
         {
           "name": "E-STYLE",
           "img": "/images/work/03.png",
-          "intr": "公司內部系統開發｜不動產經營業",
+          "intr": "系統開發",
           "url":"#"
         },
         {
           "name": "朝陽科技大學學生會",
            "img": "/images/work/02.png",
-           "intr": "多功能網站｜系統開發",
+           "intr": "系統開發",
            "url":"https://sg.cyut.edu.tw/"
         },
         {
           "name": "百世租賃有限公司",
           "img": "/images/work/01.png",
-          "intr": "預約叫車APP 系統開發",
+          "intr": "系統開發",
           "url":"https://booking.bestshi-shuttle.com/"
+        }
+      ]
+    },
+    {
+      "title": "平面設計",
+      "img": "/images/generator-img/chat-export-audio.png",
+      "menuId": "平面設計",
+      "text": "平面設計",
+      "target": "平面設計",
+      "iconImg": "/images/icons/audio-g.png",
+      "isSelect": false,
+      "subItem": [
+        {
+          "name": "錦順瀝青 Logo",
+          "img": "/images/work/22.png",
+          "intr": "Logo製作"
+        
+        },
+        {
+          "name": "鬼島飲料店 Logo",
+           "img": "/images/work/23.png",
+           "intr": "Logo製作"
+      
+        },
+        {
+          "name": "享除蟎 Logo",
+           "img": "/images/work/24.png",
+           "intr": "Logo製作"
+         
+        },
+        {
+          "name": "Angel Dating 網站 Logo",
+           "img": "/images/work/25.png",
+           "intr": "Logo製作"
+           
+        }
+        ,
+        {
+          "name": "龍年紅包設計",
+           "img": "/images/work/26.png",
+           "intr": "紅包設計"
+           
+        }
+        ,
+        {
+          "name": "享除蟎 名片",
+           "img": "/images/work/27.png",
+           "intr": "Logo製作"
+           
+        }
+        ,
+        {
+          "name": "KEEP 醬 - 諧音梗Part 1",
+           "img": "/images/work/28.png",
+           "intr": "Line 貼圖製作"
+           
+        }
+        ,
+        {
+          "name": "Keep醬-與小夥伴的日常",
+           "img": "/images/work/29.png",
+           "intr": "Line 貼圖製作"
+           
         }
       ]
     }

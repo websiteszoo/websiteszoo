@@ -60,14 +60,6 @@ const CtaTwo = () => {
                   </p>
                 </div>
                 <div className="app-store-btn">
-                  <Link className="store-btn" href="#">
-                  <button
-                        className="btn-default bg-solid-primary"
-                        data-bs-toggle="modal" data-bs-target="#about_modal"
-                  >
-                      關於樂創<i className="fa-sharp fa-regular fa-arrow-right"></i>
-                  </button>
-                  </Link>
                 </div>
               </div>
               <div className="content-right">
