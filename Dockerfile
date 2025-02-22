@@ -1,4 +1,4 @@
-FROM php:7.4-fpm-alpine
+FROM asia-east1-docker.pkg.dev/pin-yi-project/common/php:7.4-fpm-alpine
 
 LABEL maintainer="880831ian@gmail.com"
 
