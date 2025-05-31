@@ -30,9 +30,8 @@ const Header = ({ headerTransparent, headerSticky, btnClass }) => {
   return (
     <>
       <header
-        className={`rainbow-header header-default ${headerTransparent} ${headerSticky} ${
-          isSticky ? "sticky" : ""
-        }`}
+        className={`rainbow-header header-default ${headerTransparent} ${headerSticky} ${isSticky ? "sticky" : ""
+          }`}
       >
         <div className="container position-relative">
           <div className="row align-items-center row--0">
@@ -59,8 +58,8 @@ const Header = ({ headerTransparent, headerSticky, btnClass }) => {
             <div className="col-lg-2 col-md-6 col-6 position-static">
               <div className="header-right">
                 <div className="header-btn">
-                  <Link className={`${btnClass}`} href="https://status.websiteszoo.com/status/websiteszoo" target="_blank">
-                    <span>系統狀態</span>
+                  <Link className={`${btnClass}`} href="https://service.websiteszoo.com/" target="_blank">
+                    <span>會員後臺</span>
                   </Link>
                 </div>
 

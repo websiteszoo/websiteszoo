@@ -33,12 +33,6 @@
       "text": "首頁"
     },
     {
-      "link": "https://blog.websiteszoo.com/",
-      "isIcon": false,
-      "isMenu": false,
-      "text": "樂創布拉格"
-    },
-    {
       "link": "/Work",
       "isIcon": false,
       "isMenu": false,
@@ -51,12 +45,17 @@
       "text": "樂創系統"
     },
     {
+      "link": "https://status.websiteszoo.com/status/websiteszoo",
+      "isIcon": false,
+      "isMenu": false,
+      "text": "系統狀態"
+    },
+    {
       "link": "/Contact",
       "isIcon": false,
       "isMenu": false,
       "text": "聯絡我們"
     }
-    
   ],
   "smallNavItem": [
     {
@@ -90,17 +89,17 @@
       "link": "/Service",
       "isDisable": false,
       "type": "default",
-      "img": "/images/generator-icon/photo.png",
+      "img": "/images/generator-icon/code-editor.png",
       "text": "樂創系統",
       "badge": "",
       "icon": ""
     },
     {
-      "link": "https://blog.websiteszoo.com/",
+      "link": "https://status.websiteszoo.com/status/websiteszoo",
       "isDisable": false,
       "type": "default",
-      "img": "/images/generator-icon/email.png",
-      "text": "樂創布拉格",
+      "img": "/images/generator-icon/code-editor.png",
+      "text": "系統狀態",
       "badge": "",
       "icon": ""
     },
@@ -112,11 +111,18 @@
       "text": "聯絡我們",
       "badge": "",
       "icon": ""
+    },
+    {
+      "link": "https://service.websiteszoo.com/",
+      "isDisable": true,
+      "type": "default",
+      "img": "/images/generator-icon/website-design.png",
+      "text": "會員後台",
+      "badge": "",
+      "icon": ""
     }
   ],
-  "toolsItem": [
-    
-  ],
+  "toolsItem": [],
   "rightPanel": [
     {
       "today": [
