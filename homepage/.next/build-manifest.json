@@ -22,6 +22,11 @@
       "static/chunks/main.js",
       "static/chunks/pages/404.js"
     ],
+    "/Contact": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/Contact.js"
+    ],
     "/Work": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",

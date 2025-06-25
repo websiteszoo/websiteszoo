@@ -27,11 +27,12 @@ const ContactPage = () => {
           />
           <PopupMobileMenu />
           <Contact />
-          <br/><br/><br/>
+          <br /><br /><br />
 
           <BackToTop />
           <Footer />
           <Copyright />
+
         </Context>
       </main>
     </>

@@ -10,6 +10,12 @@
       "isSelect": true,
       "subItem": [
         {
+          "name": "蒙娜麗莎之吻 (廣告頁)",
+          "img": "/images/work/062504.png",
+          "intr": "一頁式網站 (水文資訊共同製作)",
+          "url": "https://mplutocracyvip.com/"
+        },
+        {
           "name": "宇航富豪，機場接送",
           "img": "/images/work/05311.png",
           "intr": "一頁式網站",
@@ -20,6 +26,12 @@
           "img": "/images/work/05312.png",
           "intr": "一頁式網站",
           "url": "https://loveelegant.com/"
+        },
+        {
+          "name": "欣欣品牌",
+          "img": "/images/work/062507.png",
+          "intr": "一頁式網站+購物車",
+          "url": "https://luxsherrie.com/"
         },
         {
           "name": "水匠防水工程行",
@@ -40,15 +52,27 @@
           "url": "https://car0531.com/"
         },
         {
-          "name": "盛凡實業股份有限公司",
-          "img": "/images/work/12.png",
-          "intr": "購物車網站",
-          "url": "https://sfb.com.tw/web/%e7%9b%9b%e5%87%a1%e8%b2%bc%e9%87%91%e7%ae%94/"
+          "name": "TDB 氣候美研生態系",
+          "img": "/images/work/062506.png",
+          "intr": "多頁形象官網",
+          "url": "https://www.t-dimensional-beauty.com/"
+        },
+        {
+          "name": "啟端 KickStart",
+          "img": "/images/work/062505.png",
+          "intr": "多頁形象官網 (水文資訊共同製作)",
+          "url": "https://kickstartclinic.com/"
+        },
+        {
+          "name": "Flying Tiger (飛虎科技) ",
+          "img": "/images/work/062501.png",
+          "intr": "多頁形象官網",
+          "url": "https://flyingtiger.io/"
         },
         {
           "name": "KO-Z服飾品牌",
           "img": "/images/work/0717.png",
-          "intr": "購物車網站",
+          "intr": "多頁形象官網+購物車",
           "url": "https://kozfashion.com/"
         },
         {
@@ -90,7 +114,7 @@
         {
           "name": "逗留寵物沙龍",
           "img": "/images/work/19.png",
-          "intr": "一頁式網站",
+          "intr": "多頁形象官網",
           "url": "https://staypetgrooming.com/"
         },
         {
@@ -98,12 +122,6 @@
           "img": "/images/work/04.png",
           "intr": "多頁形象官網",
           "url": "https://aiduodaoamy.com/"
-        },
-        {
-          "name": "多元產業工作室",
-          "img": "/images/work/21.png",
-          "intr": "多頁形象官網",
-          "url": "https://rebirth-act.com/"
         },
         {
           "name": "E-STYLE",
@@ -118,10 +136,28 @@
           "url": "https://sg.cyut.edu.tw/"
         },
         {
-          "name": "百世租賃有限公司",
+          "name": "多元產業工作室-活動報名",
+          "img": "/images/work/21.png",
+          "intr": "系統開發",
+          "url": "https://rebirth-act.com/"
+        },
+        {
+          "name": "百世租賃旅程費用試算",
           "img": "/images/work/01.png",
           "intr": "系統開發",
           "url": "https://booking.bestshi-shuttle.com/"
+        },
+        {
+          "name": "機場速達線上預約",
+          "img": "/images/work/062508.png",
+          "intr": "系統開發",
+          "url": "https://booking.bestshi-shuttle.com/"
+        },
+        {
+          "name": "期貨即時報價",
+          "img": "/images/work/062502.png",
+          "intr": "系統開發",
+          "url": "https://redgreen.tw/user/"
         }
       ]
     },
@@ -135,6 +171,12 @@
       "isSelect": false,
       "subItem": [
         {
+          "name": "蒙娜麗莎之吻 (廣告頁)",
+          "img": "/images/work/062504.png",
+          "intr": "一頁式網站 (水文資訊共同製作)",
+          "url": "https://mplutocracyvip.com/"
+        },
+        {
           "name": "宇航富豪，機場接送",
           "img": "/images/work/05311.png",
           "intr": "一頁式網站",
@@ -145,6 +187,12 @@
           "img": "/images/work/05312.png",
           "intr": "一頁式網站",
           "url": "https://loveelegant.com/"
+        },
+        {
+          "name": "欣欣品牌",
+          "img": "/images/work/062507.png",
+          "intr": "一頁式網站+購物車",
+          "url": "https://luxsherrie.com/"
         },
         {
           "name": "水匠防水工程行",
@@ -163,12 +211,6 @@
           "img": "/images/work/18.png",
           "intr": "一頁式網站",
           "url": "https://car0531.com/"
-        },
-        {
-          "name": "逗留寵物沙龍",
-          "img": "/images/work/19.png",
-          "intr": "一頁式網站",
-          "url": "https://staypetgrooming.com/"
         }
       ]
     },
@@ -182,15 +224,27 @@
       "isSelect": false,
       "subItem": [
         {
-          "name": "盛凡實業股份有限公司",
-          "img": "/images/work/12.png",
-          "intr": "購物車網站",
-          "url": "https://sfb.com.tw/web/%e7%9b%9b%e5%87%a1%e8%b2%bc%e9%87%91%e7%ae%94/"
+          "name": "TDB 氣候美研生態系",
+          "img": "/images/work/062506.png",
+          "intr": "多頁形象官網",
+          "url": "https://www.t-dimensional-beauty.com/"
+        },
+        {
+          "name": "啟端 KickStart",
+          "img": "/images/work/062505.png",
+          "intr": "多頁形象官網 (水文資訊共同製作)",
+          "url": "https://kickstartclinic.com/"
+        },
+        {
+          "name": "Flying Tiger (飛虎科技) ",
+          "img": "/images/work/062501.png",
+          "intr": "多頁形象官網",
+          "url": "https://flyingtiger.io/"
         },
         {
           "name": "KO-Z服飾品牌",
           "img": "/images/work/0717.png",
-          "intr": "購物車網站",
+          "intr": "多頁形象官網+購物車",
           "url": "https://kozfashion.com/"
         },
         {
@@ -198,30 +252,6 @@
           "img": "/images/work/09.png",
           "intr": "多頁形象官網",
           "url": "https://windwardasia.com/"
-        },
-        {
-          "name": "錦順瀝青工程行 ",
-          "img": "/images/work/07.png",
-          "intr": "多頁形象官網",
-          "url": "https://js.asphalt-taoyuan.com/"
-        },
-        {
-          "name": "全益汽車保修廠",
-          "img": "/images/work/06.png",
-          "intr": "多頁形象官網",
-          "url": "https://fucar.websiteszoo.tw/"
-        },
-        {
-          "name": "百世租賃有限公司",
-          "img": "/images/work/05.png",
-          "intr": "多頁形象官網",
-          "url": "https://bestshi-shuttle.com/"
-        },
-        {
-          "name": "愛多寶加拿大月子中心",
-          "img": "/images/work/04.png",
-          "intr": "多頁形象官網",
-          "url": "https://aiduodaoamy.com/"
         },
         {
           "name": "火蟲影像有限公司",
@@ -236,10 +266,34 @@
           "url": "https://gospeed.tw/"
         },
         {
-          "name": "多元產業工作室",
-          "img": "/images/work/21.png",
+          "name": "全益汽車保修廠",
+          "img": "/images/work/06.png",
           "intr": "多頁形象官網",
-          "url": "https://rebirth-act.com/"
+          "url": "https://fucar.websiteszoo.tw/"
+        },
+        {
+          "name": "百世租賃有限公司",
+          "img": "/images/work/05.png",
+          "intr": "多頁形象官網",
+          "url": "https://bestshi-shuttle.com/"
+        },
+        {
+          "name": "錦順瀝青工程行 ",
+          "img": "/images/work/07.png",
+          "intr": "多頁形象官網",
+          "url": "https://js.asphalt-taoyuan.com/"
+        },
+        {
+          "name": "逗留寵物沙龍",
+          "img": "/images/work/19.png",
+          "intr": "多頁形象官網",
+          "url": "https://staypetgrooming.com/"
+        },
+        {
+          "name": "愛多寶加拿大月子中心",
+          "img": "/images/work/04.png",
+          "intr": "多頁形象官網",
+          "url": "https://aiduodaoamy.com/"
         }
       ]
     },
@@ -265,10 +319,28 @@
           "url": "https://sg.cyut.edu.tw/"
         },
         {
-          "name": "百世租賃有限公司",
+          "name": "多元產業工作室-活動報名",
+          "img": "/images/work/21.png",
+          "intr": "系統開發",
+          "url": "https://rebirth-act.com/"
+        },
+        {
+          "name": "百世租賃旅程費用試算",
           "img": "/images/work/01.png",
           "intr": "系統開發",
           "url": "https://booking.bestshi-shuttle.com/"
+        },
+        {
+          "name": "機場速達線上預約",
+          "img": "/images/work/062508.png",
+          "intr": "系統開發",
+          "url": "https://booking.bestshi-shuttle.com/"
+        },
+        {
+          "name": "期貨即時報價",
+          "img": "/images/work/062502.png",
+          "intr": "系統開發",
+          "url": "https://redgreen.tw/user/"
         }
       ]
     },
