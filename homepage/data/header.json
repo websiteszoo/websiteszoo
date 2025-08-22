@@ -39,6 +39,12 @@
       "text": "客戶案例"
     },
     {
+      "link": "/Service",
+      "isIcon": false,
+      "isMenu": false,
+      "text": "相關服務"
+    },
+    {
       "link": "https://status.websiteszoo.com/status/websiteszoo",
       "isIcon": false,
       "isMenu": false,
@@ -56,17 +62,8 @@
       "link": "/",
       "isDisable": false,
       "type": "default",
-      "img": "/images/generator-icon/text.png",
+      "img": "/images/generator-icon/code-editor.png",
       "text": "首頁",
-      "badge": "",
-      "icon": ""
-    },
-    {
-      "link": "/#about",
-      "isDisable": false,
-      "type": "default",
-      "img": "/images/generator-icon/photo.png",
-      "text": "關於樂創",
       "badge": "",
       "icon": ""
     },
@@ -84,7 +81,7 @@
       "isDisable": false,
       "type": "default",
       "img": "/images/generator-icon/code-editor.png",
-      "text": "樂創系統",
+      "text": "相關服務",
       "badge": "",
       "icon": ""
     },
@@ -101,7 +98,7 @@
       "link": "/Contact",
       "isDisable": true,
       "type": "default",
-      "img": "/images/generator-icon/website-design.png",
+      "img": "/images/generator-icon/code-editor.png",
       "text": "聯絡我們",
       "badge": "",
       "icon": ""
@@ -110,7 +107,7 @@
       "link": "https://service.websiteszoo.com/",
       "isDisable": true,
       "type": "default",
-      "img": "/images/generator-icon/website-design.png",
+      "img": "/images/generator-icon/code-editor.png",
       "text": "會員後台",
       "badge": "",
       "icon": ""

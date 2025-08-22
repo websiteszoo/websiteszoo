@@ -31,36 +31,36 @@ const galleryData = [
     stripClass: 'one',
     photos: [
       { src: '/images/work/13.png', name: '企業形象網站' },
-      { src: '/_next/static/media/001.da5e25b7.png', name: '系統開發' },
+      { src: '/images/work/02.png', name: '系統開發' },
       { src: '/images/work/08.png', name: '企業形象網站' },
-      { src: '/_next/static/media/002.18d57476.png', name: '企業形象網站' },
+      { src: '/images/work/062505.png', name: '企業形象網站' },
     ],
   },
   {
     stripClass: 'two',
     photos: [
       { src: '/images/work/07.png', name: '企業形象網站' },
-      { src: '/images/work/12.png', name: '品牌型錄式網站' },
-      { src: '/images/work/06.png', name: '一頁式形象網站' },
+      { src: '/images/work/12.png', name: '企業形象網站' },
+      { src: '/images/work/06.png', name: '一頁式網站' },
       { src: '/images/work/01.png', name: '客製系統開發' },
     ],
   },
   {
     stripClass: 'three',
     photos: [
-      { src: '/images/work/11.png', name: '品牌型錄式網站' },
+      { src: '/images/work/11.png', name: '企業形象網站' },
       { src: '/images/work/04.png', name: '企業形象官網' },
-      { src: '/images/work/14.png', name: '一頁式形象網站' },
-      { src: '/images/work/15.png', name: '一頁式形象網站' },
+      { src: '/images/work/14.png', name: '一頁式網站' },
+      { src: '/images/work/15.png', name: '一頁式網站' },
     ],
   },
   {
     stripClass: 'four',
     photos: [
       { src: '/images/work/10.png', name: '企業形象網站' },
-      { src: '/images/work/13.png', name: '一頁式形象網站' },
+      { src: '/images/work/13.png', name: '一頁式網站' },
       { src: '/images/work/02.png', name: '系統開發' },
-      { src: '/_next/static/media/002.18d57476.png', name: '預約系統開發' },
+      { src: '/images/work/062508.png', name: '預約系統開發' },
     ],
   },
 ];
@@ -76,7 +76,7 @@ const Home = () => {
     const intervalId = setInterval(() => {
       setVisibleIndex((prevIndex) => (prevIndex + 1) % 3);
     }, 2000);
-    
+
     return () => {
       clearInterval(intervalId);
     };
@@ -84,37 +84,30 @@ const Home = () => {
 
   return (
     <>
-    <div className="gallery">
-      {galleryData.map((strip, index) => (
-        <div key={index} className="gallery__strip__wrapper">
-          <div className={`gallery__strip ${strip.stripClass}`}>
-            {strip.photos.map((photo, photoIndex) => (
-              <div key={photoIndex} className="photo">
-                <div className="photo__image">
-                  <img src={photo.src} alt={photo.name} />
+      <div className="gallery">
+        {galleryData.map((strip, index) => (
+          <div key={index} className="gallery__strip__wrapper">
+            <div className={`gallery__strip ${strip.stripClass}`}>
+              {strip.photos.map((photo, photoIndex) => (
+                <div key={photoIndex} className="photo">
+                  <div className="photo__image">
+                    <img src={photo.src} alt={photo.name} />
+                  </div>
+                  <div className="photo__name">{photo.name}</div>
                 </div>
-                <div className="photo__name">{photo.name}</div>
-              </div>
-            ))}
+              ))}
+            </div>
           </div>
-        </div>
-      ))}
-    </div>
+        ))}
+      </div>
       <div
         className="slider-area slider-style-1 variation-default slider-bg-image bg-banner1 slider-bg-shape"
         data-black-overlay="1"
         id="about"
       >
-
-       
-      </div>
-      <br/><br/><br/>
-      <div className="rainbow-cta-area rainbow-section-gap rainbow-section-gapBottom-big" >
-        <div className="container">
-          <CtaTwo />
-        </div>
       </div>
 
+      <br /><br /><br />
       <div className="aiwave-pricing-area wrapper rainbow-section-gap-big">
         <div className="container">
           <div className="row">
@@ -125,11 +118,8 @@ const Home = () => {
                 data-sal-duration="400"
                 data-sal-delay="150"
               >
-                <h4 className="subtitle">
-                  <span className="theme-gradient">Pricing</span>
-                </h4>
                 <h2 className="title w-600 mb--40">
-                選擇適合您的方案
+                  選擇適合您的方案
                 </h2>
               </div>
             </div>
@@ -152,6 +142,12 @@ const Home = () => {
         </div>
         <div className="bg-shape">
           <Image src={bgShape} width={630} height={879} alt="Bg Shape" />
+        </div>
+      </div>
+      <br /><br /><br />
+      <div className="rainbow-cta-area rainbow-section-gap rainbow-section-gapBottom-big" >
+        <div className="container">
+          <CtaTwo />
         </div>
       </div>
     </>
